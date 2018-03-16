@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Kavivanar|Mina:400,700');
+
+body {
+background-color: #f2f2f2;
+color: #555;
+
+-webkit-font-smoothing: antialiased;
+-webkit-overflow-scrolling: touch;
+
+
+
+}
+
+h1 {
+	font-family: 'Rammetto One', cursive;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #00539F;
+	text-shadow: 3px 3px 1px black; 'Добавляет тень для текста'
+}
+
+#priceinfo2 {
+	font-family: 'Mina', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	list-style-type: none;
+}
+
+#priceinfo {
+	font-family: 'Mina', sans-serif;
+	font-size: 30px;
+	color:#00539F;
+	
+}
